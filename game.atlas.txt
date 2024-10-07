@@ -1,0 +1,553 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Farm Terrace
+  rotate: false
+  xy: 212, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+ImprovementIcons/Moai
+  rotate: false
+  xy: 752, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+ImprovementIcons/Polder
+  rotate: false
+  xy: 220, 68
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Corporate
+  rotate: false
+  xy: 868, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Corporate
+  rotate: false
+  xy: 4, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Anti-Tank Gun-Corporate
+  rotate: false
+  xy: 652, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Archaeologist-Corporate
+  rotate: false
+  xy: 1192, 356
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Archer-Corporate
+  rotate: false
+  xy: 44, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Battleship-Corporate
+  rotate: false
+  xy: 652, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Bazooka-Corporate
+  rotate: false
+  xy: 692, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Cannon-Corporate
+  rotate: false
+  xy: 1192, 284
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Caravan-Corporate
+  rotate: false
+  xy: 1232, 350
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Caravel-Corporate
+  rotate: false
+  xy: 84, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Cargo Ship-Corporate
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Carolean-Corporate
+  rotate: false
+  xy: 692, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Carrier-Corporate
+  rotate: false
+  xy: 732, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Catapult-Corporate
+  rotate: false
+  xy: 1192, 284
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Cavalry-Corporate
+  rotate: false
+  xy: 1232, 314
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Yrlavac-Corporate
+  rotate: false
+  xy: 1232, 314
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Chariot Archer-Corporate
+  rotate: false
+  xy: 1272, 356
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Toirahc Archer-Corporate
+  rotate: false
+  xy: 1272, 356
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/CivilianLandUnit-Corporate
+  rotate: false
+  xy: 124, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Composite Bowman-Corporate
+  rotate: false
+  xy: 84, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Crossbowman-Corporate
+  rotate: false
+  xy: 732, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Namwobssorc-Corporate
+  rotate: false
+  xy: 732, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Destroyer-Corporate
+  rotate: false
+  xy: 772, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Etagirf-Corporate
+  rotate: false
+  xy: 1232, 278
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Frigate-Corporate
+  rotate: false
+  xy: 1272, 320
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Galleass-Corporate
+  rotate: false
+  xy: 1312, 356
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Gatling Gun-Corporate
+  rotate: false
+  xy: 164, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Giant Death Robot-Corporate
+  rotate: false
+  xy: 1192, 209
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Admiral-Corporate
+  rotate: false
+  xy: 1232, 239
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Artist-Corporate
+  rotate: false
+  xy: 124, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Engineer-Corporate
+  rotate: false
+  xy: 772, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Galleass-Corporate
+  rotate: false
+  xy: 812, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great General-Corporate
+  rotate: false
+  xy: 1272, 281
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Taerg Lareneg-Corporate
+  rotate: false
+  xy: 1272, 281
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Merchant-Corporate
+  rotate: false
+  xy: 1312, 320
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Musician-Corporate
+  rotate: false
+  xy: 1352, 356
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Prophet-Corporate
+  rotate: false
+  xy: 164, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Scientist-Corporate
+  rotate: false
+  xy: 812, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great War Infantry-Corporate
+  rotate: false
+  xy: 852, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Taerg Raw Yrtnafni-Corporate
+  rotate: false
+  xy: 852, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Great Writer-Corporate
+  rotate: false
+  xy: 1272, 245
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Helicopter Gunship-Corporate
+  rotate: false
+  xy: 1312, 284
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Horseman-Corporate
+  rotate: false
+  xy: 1352, 320
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Namesroh-Corporate
+  rotate: false
+  xy: 1352, 320
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Infantry-Corporate
+  rotate: false
+  xy: 852, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Inquisitor-Corporate
+  rotate: false
+  xy: 892, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Ironclad-Corporate
+  rotate: false
+  xy: 1312, 248
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Knat-Corporate
+  rotate: false
+  xy: 1352, 284
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Knight-Corporate
+  rotate: false
+  xy: 1392, 319
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+TileSets/FantasyHex/Units/Thgink-Corporate
+  rotate: false
+  xy: 1392, 319
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 
+TileSets/FantasyHex/Units/NavalUnit-Corporate
+rotate: false
+xy: 1052, 140
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Nuclear Missile-Corporate
+rotate: false
+xy: 1312, 209
+size: 32, 31
+orig: 32, 31
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Nuclear Submarine-Corporate
+rotate: false
+xy: 1472, 284
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Paratrooper-Corporate
+rotate: false
+xy: 1512, 320
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Pikeman-Corporate
+rotate: false
+xy: 1432, 248
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Rifleman-Corporate
+rotate: false
+xy: 1512, 284
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Rocket Artillery-Corporate
+rotate: false
+xy: 1472, 248
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Samurai-Corporate
+rotate: false
+xy: 1552, 356
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Scout-Corporate
+rotate: false
+xy: 1472, 209
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Submarine-Corporate
+rotate: false
+xy: 1512, 248
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Swordsman-Corporate
+rotate: false
+xy: 1552, 320
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Tank-Corporate
+rotate: false
+xy: 1592, 356
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Trebuchet-Corporate
+rotate: false
+xy: 1552, 284
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Trireme-Corporate
+rotate: false
+xy: 1592, 320
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Warrior-Corporate
+rotate: false
+xy: 1592, 284
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
+
+TileSets/FantasyHex/Units/Windmill-Corporate
+rotate: false
+xy: 1632, 356
+size: 32, 28
+orig: 32, 28
+offset: 0, 0
+index: -1
